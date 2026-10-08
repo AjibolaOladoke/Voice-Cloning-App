@@ -2,7 +2,7 @@
 
 ## Images
 
-[![Voice-Cloning-App](https://opengraph.githubassets.com/1/https://github.com/voice-cloning-app/Voice-Cloning-App)](https://www.swifttechco.com)
+[![Voice-Cloning-App](https://opengraph.githubassets.com/1/voice-cloning-app/Voice-Cloning-App)](https://www.swifttechco.com)
 
 ---
 
